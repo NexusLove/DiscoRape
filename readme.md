@@ -5,8 +5,8 @@ DiscoRape is a selfbot for Discord written in python3.8
 The original repository I forked this from can be found here [made by EC-discord](https://github.com/EC-discord/self-bot)
 
 ## Preview
-![](https://github.com/GoByeBye/DiscoRape/blob/master/Preview.gif)
-
+![](https://github.com/NexusLove/DiscoRape/blob/master/Preview.gif)
+we
 ## :memo: Install/Run
 
 `pip3 install -r requirements.txt`
@@ -15,7 +15,7 @@ The original repository I forked this from can be found here [made by EC-discord
 Add your token in `data/config.json`
 run by doing `python3 selfbot.py`
 
-or you can [![Run on Repl.it](https://repl.it/badge/github/GoByeBye/DiscoRape)](https://repl.it/github/GoByeBye/DiscoRape)
+or you can [![Run on Repl.it](https://repl.it/badge/github/NexusLove/DiscoRape)](https://repl.it/github/NexusLove/DiscoRape)
 
 
 ## Support/Contributing
